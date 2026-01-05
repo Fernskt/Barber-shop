@@ -15,9 +15,9 @@ export const BRANCHES: Branch[] = [
   {
     id: "temperley-tarija",
     name: "Tarija",
-    address: "Tarija 2080",
+    address: "Tarija 2240",
     city: "Temperley, Buenos Aires",
-    fullAddress: "Tarija 2080, Temperley – Buenos Aires",
+    fullAddress: "Tarija 2240, Temperley – Buenos Aires",
     schedule: {
       monday: null,
       tuesday: { open: "10:30", close: "20:00" },
@@ -35,9 +35,9 @@ export const BRANCHES: Branch[] = [
   {
     id: "jose-marmol",
     name: "Amenedo",
-    address: "Amenedo 4371",
+    address: "Amenedo 4810",
     city: "San José, Buenos Aires",
-    fullAddress: "Amenedo 4371, San José – Buenos Aires",
+    fullAddress: "Amenedo 4810, San José – Buenos Aires",
     schedule: {
       monday: null,
       tuesday: { open: "10:30", close: "20:00" },
@@ -58,7 +58,7 @@ export const BRANCHES: Branch[] = [
     address: "Av. Eva Perón 818",
     city: "Temperley, Buenos Aires",
     fullAddress:
-      "Avenida Eva Perón 818, Temperley – Buenos Aires",
+      "Avenida Eva Perón 1200, Temperley – Buenos Aires",
     schedule: {
       monday: { open: "10:00", close: "20:00" },
       tuesday: { open: "10:00", close: "20:00" },
@@ -76,11 +76,11 @@ export const BRANCHES: Branch[] = [
 ];
 
 export const BUSINESS_INFO = {
-  name: "King of Kings",
-  fullName: "King of Kings Barbershop",
-  phone: "11 2282-9647",
+  name: "Barbershop",
+  fullName: "BarberShop",
+  phone: "11 6042-2020",
   phoneLink: "+541122829647",
-  email: "alejomassi69@gmail.com",
+  email: "example10@gmail.com",
   instagram: "@King.offkings_",
   instagramUrl: "https://instagram.com/King.offkings_",
   facebook: "https://facebook.com",

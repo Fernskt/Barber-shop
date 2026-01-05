@@ -12,7 +12,7 @@ export function Footer() {
             <div className="flex items-center gap-2 mb-4">
               <Crown className="w-8 h-8 text-[#C6A15B]" />
               <span className="text-xl tracking-wider text-[#C6A15B]" style={{ fontFamily: 'Cinzel, serif', fontWeight: 700 }}>
-                KING OF KINGS
+                Barbershop
               </span>
             </div>
             <p className="text-gray-400 text-sm">

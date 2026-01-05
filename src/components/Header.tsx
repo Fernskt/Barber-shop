@@ -25,7 +25,7 @@ export function Header() {
           <Link to="/" className="flex items-center gap-2 cursor-pointer">
             <Crown className="w-8 h-8 text-[#C6A15B]" />
             <span className="text-2xl tracking-wider text-[#C6A15B]" style={{ fontFamily: 'Cinzel, serif', fontWeight: 700 }}>
-              KING OF KINGS
+              Barbershop
             </span>
           </Link>
 

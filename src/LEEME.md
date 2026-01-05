@@ -1,8 +1,8 @@
-# King of Kings Barbershop - Plataforma de Reservas Online
+# BarberShop - Plataforma de Reservas Online
 
 ## 🎯 Descripción
 
-Plataforma web completa para la barbería "King of Kings Barbershop" con sistema de reservas online, gestión de servicios, barberos y galería. Diseñada con estética premium que combina lo clásico y lo moderno.
+Plataforma web completa para la barbería "BarberShop" con sistema de reservas online, gestión de servicios, barberos y galería. Diseñada con estética premium que combina lo clásico y lo moderno.
 
 ## 🎨 Características de Diseño
 
@@ -212,7 +212,7 @@ La aplicación usa Supabase Auth con:
 ## 🎨 Componentes Principales
 
 ### Header
-- Logo "King of Kings"
+- Logo "Barbershop"
 - Navegación responsive
 - Botones CTA (Mi Cuenta, Reservar)
 
@@ -306,7 +306,7 @@ Para consultas o problemas:
 
 ## 📄 Licencia
 
-Todos los derechos reservados © 2025 King of Kings Barbershop
+Todos los derechos reservados © 2025 BarberShop
 
 ---
 

@@ -19,7 +19,7 @@ export function Home() {
         <div className="absolute inset-0 z-0">
           <ImageWithFallback
             src="https://images.unsplash.com/photo-1759134198561-e2041049419c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiYXJiZXJzaG9wJTIwaW50ZXJpb3IlMjBtb2Rlcm58ZW58MXx8fHwxNzYwNDIwNzM5fDA&ixlib=rb-4.1.0&q=80&w=1080"
-            alt="King of Kings Barbershop"
+            alt="BarberShop"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-r from-[#111111] via-[#111111] to-[#111111] from-opacity-90 via-opacity-80 to-opacity-70"></div>
@@ -46,9 +46,9 @@ export function Home() {
               }}
               className="text-6xl md:text-7xl mb-6 text-white leading-tight"
             >
-              King
+              Barber
               <br />
-              of Kings
+              Shop
             </h1>
             <p className="text-xl text-gray-300 mb-8">
               Reservá en segundos. Barberías premium con estilo

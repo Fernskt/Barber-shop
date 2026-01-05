@@ -343,7 +343,7 @@ export function Admin() {
                 <div>
                   <Label className="text-white">Nombre de la Barbería</Label>
                   <Input
-                    defaultValue="King of Kings Barbershop"
+                    defaultValue="BarberShop"
                     className="bg-[#111111] border-[#C6A15B]/20 text-white"
                   />
                 </div>
